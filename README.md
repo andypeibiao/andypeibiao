@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=andypeibiao.visitor-badge&left_color=red&right_color=green&left_text=访问人数)
 
 | [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andypeibiao&theme=synthwave&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)](https://github.com/andypeibiao) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andypeibiao&theme=synthwave&hide_border=true&hide=css,javascript,html&layout=donut&hide_title=true&bg_color=00000000)](https://github.com/andypeibiao) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
